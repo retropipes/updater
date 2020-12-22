@@ -1,2 +1,2 @@
-# lib-java-updater
+# Updater
  Java Update Check Library
